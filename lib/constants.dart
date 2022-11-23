@@ -1,7 +1,10 @@
 import 'package:flutter/material.dart';
 
+
+/// App text
 const appTitle="Todo App";
 const appBarTitle="Todo";
+const todoView="Todo View";
 
 
 
